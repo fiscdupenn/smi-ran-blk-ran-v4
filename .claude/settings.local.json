@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(del \"C:\\Users\\dfischer.HK8P103\\Documents\\projects\\smi-ran-blk-ran-v4\\next.config.js\")",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "mcp__ide__getDiagnostics",
+      "Read(//c/Users/dfischer.HK8P103/Desktop/**)",
+      "Bash(netstat:*)",
+      "Bash(awk:*)",
+      "Bash(xargs:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(del \"\\?\\C:\\Users\\dfischer.HK8P103\\Documents\\projects\\smi-ran-blk-ran-v4\\nul\")",
+      "Bash(powershell -Command \"Remove-Item -LiteralPath ''\\?\\C:\\Users\\dfischer.HK8P103\\Documents\\projects\\smi-ran-blk-ran-v4\\nul'' -Force\")",
+      "Bash(powershell -Command \"Remove-Item -LiteralPath ''\\\\?\\C:\\Users\\dfischer.HK8P103\\Documents\\projects\\smi-ran-blk-ran-v4\\nul'' -Force\")",
+      "Bash(powershell -Command \"Remove-Item ''.\\nul'' -Force\")",
+      "Bash(rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
