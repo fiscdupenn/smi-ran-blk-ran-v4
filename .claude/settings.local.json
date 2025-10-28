@@ -19,7 +19,10 @@
       "Bash(rm:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git config:*)",
+      "Bash(git credential-manager:*)",
+      "Bash(printf:*)"
     ],
     "deny": [],
     "ask": []
